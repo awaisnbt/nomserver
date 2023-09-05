@@ -1,1 +1,1 @@
-# nomserver
+# nomADZ-server
